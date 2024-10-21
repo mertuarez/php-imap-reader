@@ -1,6 +1,6 @@
 # PHP IMAP Reader
 A PHP class that makes working with IMAP as easy as possible. 
-
+asd
 This class is written to be chain-able so to create a logically fluent and easily readable way to access an IMAP mailbox. 
 
 It simplifies the PHP IMAP_* library into a set of easy to read methods that do the heavy lifting for you.
